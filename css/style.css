@@ -1,0 +1,32 @@
+h1{
+	background: yellow;
+}
+
+h2{
+	background: red; color: white;
+}
+
+.c_border{
+	border: 2px solid green;
+}
+
+#border2{
+	border: 2px solid red;
+}
+
+.box{
+	width: 10%;
+	height: 150px;
+	}
+.lightblue {background-color: lightblue;
+	}
+.lavender{	
+	background-color: lavender;
+
+	padding: 100px 100px;
+    margin: 160px 160px;
+}
+
+table, th, td {
+  border: 1px solid;
+}
