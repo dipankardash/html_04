@@ -1,3 +1,3 @@
 # html_04
 live preview
-https://dipankardash.github.io/html_04/
+https://dipankardash.github.io/practice_04/
